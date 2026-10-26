@@ -5,5 +5,5 @@
 - 6767676767
 
 ## dumtaetua
--humkordum
--jukkrooo
+- roojai
+- rootood
