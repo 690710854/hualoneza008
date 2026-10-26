@@ -7,9 +7,7 @@
 ## dumtaetua
 - roojai
 - rootood
-## ass
-- keetak
-
+- 
 ## toodyai
 - pinky
 - kielai
