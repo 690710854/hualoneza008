@@ -7,3 +7,5 @@
 ## dumtaetua
 - roojai
 - rootood
+## ass
+-keetak
