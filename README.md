@@ -6,4 +6,4 @@
 
 ## dumtaetua
 -humkordum
--jukkroo
+-jukkrooo
